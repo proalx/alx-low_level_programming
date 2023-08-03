@@ -5,7 +5,7 @@
  * @n: number to return the factorial from
  * Return: fact
  */
-int fact(int n)
+int factorial(int n)
 {
 	if (n < 0)
 		return (-1);
