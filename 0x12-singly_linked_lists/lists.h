@@ -5,9 +5,6 @@
 #include <string.h>
 
 /*
- * 
- *
- *
  *Description: singly linked list node structure
  */
 
