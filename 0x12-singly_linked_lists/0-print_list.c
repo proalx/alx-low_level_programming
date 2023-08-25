@@ -20,8 +20,9 @@ size_t print_list(const list_t *h)
 	    {
 		    printf("[%lu] %s\n", h->len, h->str);
 	    }
-	    cmpt++;
 	    h = h->next;
+	    cmpt++;
+	    
     }
     return (cmpt);
 }
